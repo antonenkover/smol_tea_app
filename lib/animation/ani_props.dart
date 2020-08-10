@@ -1,0 +1,3 @@
+enum AniProps {
+  opacity,
+}
