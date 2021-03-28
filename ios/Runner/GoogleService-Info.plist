@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>512751605567-hsj08i0gav26hl7qsqah1su78ijp2hor.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.512751605567-hsj08i0gav26hl7qsqah1su78ijp2hor</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQDupIpoqA4xsRsuFW_lfTvVGDknahtPE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>512751605567</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.veronikaantonenko.tea-app</string>
+	<key>PROJECT_ID</key>
+	<string>smol-tea-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smol-tea-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:512751605567:ios:496321141eddc66621658a</string>
+	<key>DATABASE_URL</key>
+	<string>https://smol-tea-app.firebaseio.com</string>
+</dict>
+</plist>
